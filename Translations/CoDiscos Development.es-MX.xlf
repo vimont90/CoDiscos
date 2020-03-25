@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="CoDiscos Development" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1915.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="body" datatype="resx">
+        <trans-unit id="Report 2137336252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Portfolio by Seller</source>
+          <target state="translated">Reporte de Cartera Por Vendedor</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Portfolio by Seller - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2137336252 - Control 2851699668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Star Date</source>
+          <target state="translated">Fecha Inicial</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Portfolio by Seller - Control StarDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2137336252 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target state="translated">Fecha Final</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Portfolio by Seller - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2137336252 - Control 2850910927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Person Code</source>
+          <target state="translated">Cod. Vendedor</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Portfolio by Seller - Control SalesPerson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2137336252 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionName</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Portfolio by Seller - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1376841269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Reconciliation</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Customer Reconciliation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1376841269 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionName</source>
+          <target state="new"></target>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Customer Reconciliation - Action ActionName - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
